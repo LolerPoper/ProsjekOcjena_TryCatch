@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Luka Radetic\Prosjek\obj\Debug\Prosjek.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Luka Radetic\Prosjek\obj\Debug\Prosjek.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Luka Radetic\Prosjek\obj\Debug\Prosjek.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Luka Radetic\Prosjek\bin\Debug\Prosjek.exe.config
+C:\Users\ucenik\Documents\Luka Radetic\Prosjek\bin\Debug\Prosjek.exe
+C:\Users\ucenik\Documents\Luka Radetic\Prosjek\bin\Debug\Prosjek.pdb
+C:\Users\ucenik\Documents\Luka Radetic\Prosjek\obj\Debug\Prosjek.exe
+C:\Users\ucenik\Documents\Luka Radetic\Prosjek\obj\Debug\Prosjek.pdb
